@@ -1,0 +1,9 @@
+/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/ProjetCoreData/bin/Debug/netcoreapp3.1/ProjetCoreData.deps.json
+/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/ProjetCoreData/bin/Debug/netcoreapp3.1/ProjetCoreData.dll
+/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/ProjetCoreData/bin/Debug/netcoreapp3.1/ProjetCoreData.pdb
+/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/ProjetCoreData/obj/Debug/netcoreapp3.1/ProjetCoreData.csprojAssemblyReference.cache
+/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/ProjetCoreData/obj/Debug/netcoreapp3.1/ProjetCoreData.AssemblyInfoInputs.cache
+/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/ProjetCoreData/obj/Debug/netcoreapp3.1/ProjetCoreData.AssemblyInfo.cs
+/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/ProjetCoreData/obj/Debug/netcoreapp3.1/ProjetCoreData.csproj.CoreCompileInputs.cache
+/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/ProjetCoreData/obj/Debug/netcoreapp3.1/ProjetCoreData.dll
+/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/ProjetCoreData/obj/Debug/netcoreapp3.1/ProjetCoreData.pdb

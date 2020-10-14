@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projet_MVC", "projet_MVC\projet_MVC.csproj", "{519EB86D-9EFE-411E-B907-DB47E61D9881}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach", "Foreach\Foreach.csproj", "{DFB5CF0B-6998-448A-AD1E-26711C0BA007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetCoreData", "ProjetCoreData\ProjetCoreData.csproj", "{6AD315DB-6706-49F0-83FE-1C0221C8393B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +17,13 @@ Global
 		{519EB86D-9EFE-411E-B907-DB47E61D9881}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{519EB86D-9EFE-411E-B907-DB47E61D9881}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{519EB86D-9EFE-411E-B907-DB47E61D9881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB5CF0B-6998-448A-AD1E-26711C0BA007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB5CF0B-6998-448A-AD1E-26711C0BA007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB5CF0B-6998-448A-AD1E-26711C0BA007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB5CF0B-6998-448A-AD1E-26711C0BA007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD315DB-6706-49F0-83FE-1C0221C8393B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD315DB-6706-49F0-83FE-1C0221C8393B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD315DB-6706-49F0-83FE-1C0221C8393B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD315DB-6706-49F0-83FE-1C0221C8393B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

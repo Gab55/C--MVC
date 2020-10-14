@@ -1,4 +1,54 @@
 ﻿<Properties StartupConfiguration="{519EB86D-9EFE-411E-B907-DB47E61D9881}|Default">
-  <MonoDevelop.Ide.ItemProperties.projet__MVC FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="projet_MVC/Controllers/ProfilUserController.cs">
+    <Files>
+      <File FileName="projet_MVC/Views/ProfilUser/Create.cshtml" Line="4" Column="13" IsPinned="True" />
+      <File FileName="projet_MVC/Controllers/ProfilUserController.cs" Line="29" Column="64" />
+      <File FileName="projet_MVC/Views/ProfilUser/All.cshtml" />
+      <File FileName="ProjetCoreData/Models/Utilisateur.cs" Line="6" Column="18" />
+      <File FileName="projet_MVC/Startup.cs" />
+      <File FileName="projet_MVC/DefaultContext.cs" />
+      <File FileName="projet_MVC/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" />
+      <File FileName="projet_MVC/Program.cs" />
+      <File FileName="projet_MVC/Views/ProfilUser/Index.cshtml" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="projet_MVC" expanded="True">
+            <Node name="projet_MVC" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Data" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="ProfilUserController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ProjetCoreData" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.projet__MVC PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Foreach/Foreach.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gabrielgiroud/Documents/VisualStudio/Projet/ProjetC#/C# MVC/projet_MVC/projet_MVC/Areas/Identity/Data/projet_MVCIdentityDbContext.cs" relfile="projet_MVC/Areas/Identity/Data/projet_MVCIdentityDbContext.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
